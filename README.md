@@ -16,4 +16,6 @@ I'm a Full-Stack Developer who enjoys building clean, functional, and user-focus
 - [LinkedIn](https://www.linkedin.com/in/prabesh-dahal-53b64a351/)
 
 ## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabesh001&show_icons=true&hide_title=true&hide=issues&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabesh001&show_icons=true&hide=issues&&layout=compact&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabesh001&layout=compact&theme=tokyonight)](https://github.com/Prabesh001)
