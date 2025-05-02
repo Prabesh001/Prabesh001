@@ -1,3 +1,4 @@
+
 <p align="center">
   <span style="display: inline-flex; align-items: center; gap: 8px;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100000&center=true&vCenter=true&width=100&lines=Hi%2C+I'm" alt="Typing SVG" />
@@ -5,13 +6,16 @@
   </span>
 </p>
 
-
 I'm a Full-Stack Developer who enjoys building clean, functional, and user-focused applications. I work mostly with MERN Stack, and I'm always open to learning something new or collaborating on interesting projects.
 
 ## 💼 What I Do
 
-- 🧠 Currently learning: Typescript
-- 🎯 Speciality: MERN Stack, Next.js
+- 🧠 Currently learning: ![Typescript](https://img.shields.io/badge/Typescript-3B82F6?style=flat&logo=typescript&logoColor=white)
+ <br/> <br/>
+- 🎯 Speciality: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232F?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)<br/> <br/>
 - 🤝 Open to: Collaborations, freelance work, or just chatting about code
 
 ## 🔧 Tech Stack
