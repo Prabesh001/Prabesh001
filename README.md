@@ -15,7 +15,7 @@ I'm a Full-Stack Developer who enjoys building clean, functional, and user-focus
 - 🎯 Speciality: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232F?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)<br/> <br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-339933?style=flat&logo=next.js&logoColor=black)<br/> <br/>
 - 🤝 Open to: Collaborations, freelance work, or just chatting about code
 
 ## 🔧 Tech Stack
@@ -90,6 +90,8 @@ I'm a Full-Stack Developer who enjoys building clean, functional, and user-focus
 ## 📊 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabesh001&show_icons=true&hide=issues&&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prabesh001&theme=tokyonight&background=000319)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabesh001&layout=compact&theme=tokyonight)](https://github.com/Prabesh001)
 
