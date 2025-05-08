@@ -91,7 +91,7 @@ I'm a Full-Stack Developer who enjoys building clean, functional, and user-focus
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabesh001&show_icons=true&hide=issues&&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prabesh001&theme=tokyonight&background=000319)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Prabesh001&theme=tokyonight&background=000319)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabesh001&layout=compact&theme=tokyonight)](https://github.com/Prabesh001)
 
